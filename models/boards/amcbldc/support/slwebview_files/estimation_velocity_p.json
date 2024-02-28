@@ -1,0 +1,192 @@
+[
+ {
+  "sid":"estimation_velocity",
+  "inspector":{
+   "params":[
+    "ModelVersion",
+    "LastModifiedDate",
+    "LibraryLinkDisplay",
+    "ModelBrowserVisibility",
+    "Dirty",
+    "Description"
+   ],
+   "values":[
+    "6.4",
+    "Sat Dec 30 14:17:50 2023",
+    "disabled",
+    "off",
+    "off",
+    ""
+   ],
+   "tabs":[
+   ],
+   "tabs_idx":[
+   ]
+  },
+  "viewer":{
+   "jshandler":"webview/handlers/ElementHandler"
+  },
+  "obj_viewer":[
+  ],
+  "finder":[
+  ]
+ },
+ {
+  "sid":"estimation_velocity:284",
+  "inspector":{
+   "params":[
+    "X",
+    "N"
+   ],
+   "values":[
+    "(0:15) * Ts_EstimationVelocity",
+    "1"
+   ],
+   "tabs":[
+   ],
+   "tabs_idx":[
+   ]
+  },
+  "viewer":{
+   "jshandler":"webview/handlers/ElementHandler"
+  },
+  "obj_viewer":[
+  ],
+  "finder":{
+   "blocktype":"SubSystem",
+   "masktype":"Least Squares Polynomial Fit"
+  }
+ },
+ {
+  "sid":"estimation_velocity:284:3",
+  "inspector":{
+   "params":[
+    "SigAttribCheckMethod",
+    "Complexity",
+    "Frame",
+    "DimsCheckMethod",
+    "Dimensions",
+    "DatatypeCheckMethod",
+    "DatatypeGeneral",
+    "DtypeFloatSpecific",
+    "DtypeFixedSpecific",
+    "DtypeIntSpecific",
+    "SampleMode"
+   ],
+   "values":[
+    "Does not match attributes exactly",
+    "Ignore",
+    "Ignore",
+    "Ignore",
+    "1-D",
+    "Is...",
+    "Floating-point",
+    "Any floating-point",
+    "Any fixed-point",
+    "Any integer",
+    "Ignore"
+   ],
+   "tabs":[
+   ],
+   "tabs_idx":[
+   ]
+  },
+  "viewer":{
+   "jshandler":"webview/handlers/ElementHandler"
+  },
+  "obj_viewer":[
+  ],
+  "finder":{
+   "blocktype":"SubSystem",
+   "masktype":"Check Signal Attributes"
+  }
+ },
+ {
+  "sid":"estimation_velocity:284:4",
+  "inspector":{
+   "params":[
+    "SigAttribCheckMethod",
+    "Complexity",
+    "Frame",
+    "DimsCheckMethod",
+    "Dimensions",
+    "DatatypeCheckMethod",
+    "DatatypeGeneral",
+    "DtypeFloatSpecific",
+    "DtypeFixedSpecific",
+    "DtypeIntSpecific",
+    "SampleMode"
+   ],
+   "values":[
+    "Does not match attributes exactly",
+    "Ignore",
+    "Ignore",
+    "Ignore",
+    "1-D",
+    "Is...",
+    "Floating-point",
+    "Any floating-point",
+    "Any fixed-point",
+    "Any integer",
+    "Ignore"
+   ],
+   "tabs":[
+   ],
+   "tabs_idx":[
+   ]
+  },
+  "viewer":{
+   "jshandler":"webview/handlers/ElementHandler"
+  },
+  "obj_viewer":[
+  ],
+  "finder":{
+   "blocktype":"SubSystem",
+   "masktype":"Check Signal Attributes"
+  }
+ },
+ {
+  "sid":"estimation_velocity:284:5",
+  "inspector":{
+   "params":[
+    "SigAttribCheckMethod",
+    "Complexity",
+    "Frame",
+    "DimsCheckMethod",
+    "Dimensions",
+    "DatatypeCheckMethod",
+    "DatatypeGeneral",
+    "DtypeFloatSpecific",
+    "DtypeFixedSpecific",
+    "DtypeIntSpecific",
+    "SampleMode"
+   ],
+   "values":[
+    "Does not match attributes exactly",
+    "Ignore",
+    "Ignore",
+    "Ignore",
+    "1-D",
+    "Is...",
+    "Floating-point",
+    "Any floating-point",
+    "Any fixed-point",
+    "Any integer",
+    "Ignore"
+   ],
+   "tabs":[
+   ],
+   "tabs_idx":[
+   ]
+  },
+  "viewer":{
+   "jshandler":"webview/handlers/ElementHandler"
+  },
+  "obj_viewer":[
+  ],
+  "finder":{
+   "blocktype":"SubSystem",
+   "masktype":"Check Signal Attributes"
+  }
+ }
+]
